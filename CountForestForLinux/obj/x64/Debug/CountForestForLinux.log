@@ -1,0 +1,20 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely
+  Starting remote build
+  Compiling sources:
+  Utils.cpp
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Frame.h(81,20): warning : conversion to ‘float’ from ‘int’ may alter its value [-Wconversion]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Frame.h(82,20): warning : conversion to ‘float’ from ‘int’ may alter its value [-Wconversion]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Frame.h(96,45): warning : conversion to ‘unsigned char’ from ‘int’ may alter its value [-Wconversion]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(31,39): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(126,39): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(130,39): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(134,39): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(138,39): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(241,48): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(242,53): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(267,38): warning : conversion to ‘float’ from ‘std::vector<float>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\Utils.cpp(299,40): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+  Linking objects
+  CountForestForLinux.vcxproj -> E:\WorkSpace\VS\CountForestForLinux\CountForestForLinux\bin\x64\Debug\CountForestForLinux.out
